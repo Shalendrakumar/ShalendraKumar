@@ -1,3 +1,2 @@
-# ShalendraKumar
-this is my git repository
-# Hi Everyone! Welcome to My GitHub Profile
+# Shalendra Kumar
+# Hi Everyone! Welcome to My GitHub Profile 
